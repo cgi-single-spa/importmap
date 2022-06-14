@@ -3,6 +3,6 @@
         "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
         "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
         "@cgi/root-config": "https://cgi-single-spa.github.io/root-config/cgi-root-config.js",
-        "@cgi/styleguide": "https://cgi-single-spa.github.io/styleguide/js/app.919bf0cf.js"
+        "@cgi/styleguide": "https://cgi-single-spa.github.io/styleguide/app.js"
     }
 }
