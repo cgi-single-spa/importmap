@@ -3,11 +3,11 @@
         "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
         "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
         "@cgi/root-config": "https://cgi-single-spa.github.io/root-config/cgi-root-config.js",
-        "@cgi/styleguide": "https://cgi-single-spa.github.io/styleguide/app.js",
+        "@cgi/styleguide": "https://cgi-single-spa.github.io/styleguide/js/app.js",
         "@cgi/angular-product": "https://cgi-single-spa.github.io/angular-product/main.js",
         "@cgi/angular-navbar": "https://cgi-single-spa.github.io/angular-navbar/main.js",
         "@cgi/vue-minicart": "https://cgi-single-spa.github.io/vue-minicart/js/app.js",
-        "@cgi/vue-cartpage": "https://cgi-single-spa.github.io/vue-cartpage/app.js",
+        "@cgi/vue-cartpage": "https://cgi-single-spa.github.io/vue-cartpage/js/app.js",
         "@cgi/react-footer": "https://cgi-single-spa.github.io/react-footer/cgi-react-footer.js",
         "@cgi/react-popup": "https://cgi-single-spa.github.io/react-popup/cgi-react-popup.js"
     }
